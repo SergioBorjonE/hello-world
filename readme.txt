@@ -2,4 +2,4 @@ Hola mundo
 
 como estan?
 
-esto resulta interesante
+esta es una prueba de para la clave ssh
